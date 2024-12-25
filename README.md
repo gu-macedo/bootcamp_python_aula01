@@ -1,9 +1,6 @@
 # Bootcamp python -- aula 01
 
-## teste de commit a partir da máquina local
+## primeira aula demonstrando instalação de Vscode e git
 
-*Escrevendo em itálico*
-**Escrevendo em negrito** 
-
-1) Commit do projeto 
-2) Conserto do README.md na página inicial 
+1) cal.py: Calculadora de soma de valores inteiros 
+2) len.py: Contagem de caracteres presentes em uma String
